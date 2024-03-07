@@ -1,6 +1,6 @@
 # Hi 👋, I’m Diego!
 
-- Used to be a .NET FullStack developer (before NetCore and yes! I do use it as well) and actually backend developer with a pinch of frontend troublesolver that also designs your API's database.
+- Used to be a .NET FullStack developer (before NetCore and yes! I do use it as well) and lately interested/focused on backend developing with a pinch of frontend and desing of databases/API's (also have interest of working at data analisys).
 
 ## 🔭 Lately (or possibly currently)  at
 
@@ -9,7 +9,8 @@
 - Reduce your working time making executable pieces of code that may speed up repetitive and tedious time-consuming tasks at any area (science, accounting, etc.)
 
 ## 🌱 I’m currently learning:
-- Flutter w/ BLoC.
+- Currently enrolled as **Student** at Universidad Tecnológica de Durango at **Software Development and Managment career** 
+- Flutter / BLoC pattern.
 - Firebase Cloud Firestore
 
 
