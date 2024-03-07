@@ -1,6 +1,6 @@
 # Hi 👋, I’m Diego!
 
-- .NET FullStack developer (before NetCore and yes! I do use it as well) and actually backend developer with a pinch of frontend troublesolver that also designs your API's database.
+- Used to be a .NET FullStack developer (before NetCore and yes! I do use it as well) and actually backend developer with a pinch of frontend troublesolver that also designs your API's database.
 
 ## 🔭 Lately (or possibly currently)  at
 
