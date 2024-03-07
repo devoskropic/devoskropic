@@ -2,25 +2,24 @@
 
 - .NET FullStack developer (before NetCore and yes! I do use it as well) and actually backend developer with a pinch of frontend troublesolver that also designs your API's database.
 
-## 🔭 I’m currently working at
+## 🔭 Lately (or possibly currently)  at
 
-- [API / DataBase / Data models] design.
+- [API / DataBase / Data models] design (on SQL Server and MySQL).
 - Small and medium size applications development focused on solving small business owners needs.
 - Reduce your working time making executable pieces of code that may speed up repetitive and tedious time-consuming tasks at any area (science, accounting, etc.)
-- Tailored CRM design.
 
 ## 🌱 I’m currently learning:
 - Flutter w/ BLoC.
 - Firebase Cloud Firestore
-- NodeJS.
 
-## 💞️ I’ve collaborated (and looking forward) on:
-- NetCore, Blazor, Angular API's (mainly backend, and few frontend)
-- PHP front and backend role websites
-- Database design/maintenance: MySQL, SQL Server Databases, Oracle
 
-## 🥅 2023 coding goal:
-- Work on flutter projects, if you're looking for a dev I'm available now 
+## 💞️ I’ve collaborated (and looking forward) on projects based on:
+- Some NetCore, Blazor, websites.
+- A PHP front and backend role website.
+- Database design/maintenance: MySQL, SQL Server Databases, Oracle on some projects
+
+## 🥅 2024 coding goal:
+- Work on flutter projects and upload here those who I've already have done (despite they are all incomplete since I'm learning it).
 
 ## 📫 You can reach me by email, I'll be happy to collaborate with you:
 - dev.ddrx@gmail.com
