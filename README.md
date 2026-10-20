@@ -22,7 +22,7 @@
 
 ## 🥅 I'm currently looking forward to learn | collaborate on:
 - Flutter apps
-- AWS DevOps | IA
+- AWS DevOps | IA (a few weeks to achieve some AWS certifications)
 - .NET projects
 
 ## 📥 If you're looking for someone to join your project with enough free time and and with almost no scheduling issues I'm your man, we can talk at English or Spanish(native for me) hit me at:
