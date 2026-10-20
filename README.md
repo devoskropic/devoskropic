@@ -1,5 +1,8 @@
 # Hi 👋, I’m Diego!
 
+## 📥 If you're looking for someone to join your project with enough free time and and with almost no scheduling issues I'm your man, we can talk at English or Spanish(native for me) hit me at:
+- dev.ddrx@gmail.com
+
 - Used to be a .NET FullStack developer, so I worked making/migrating projects using
   - VB 5.0, VB 6.0, .NET Framework 3.5 TO 4.5, .NET Core 3.0 and .NET 4 & 5  
   - PHP
@@ -24,9 +27,6 @@
 - Flutter apps
 - AWS DevOps | IA (a few weeks to achieve some AWS certifications)
 - .NET projects
-
-## 📥 If you're looking for someone to join your project with enough free time and and with almost no scheduling issues I'm your man, we can talk at English or Spanish(native for me) hit me at:
-- dev.ddrx@gmail.com
 
 ## Some Languages and Tools I've used/know:
 
